@@ -1,1 +1,2 @@
-icms-php
+# iCMS
+Small CMS system
